@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="form">
-         <h1>ENTER</h1>
+         <h1>Log In</h1>
          <div class="input-form">
              <input type="text" placeholder="Login">
          </div>
